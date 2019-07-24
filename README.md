@@ -1,3 +1,7 @@
+## Thoughts
+1、可以考虑将skipgram、bert以及glov联合使用。效果会不会提升，效果如下：
+
+
 ## Setup
 
 1. Make sure you have [Miniconda](https://conda.io/docs/user-guide/install/index.html#regular-installation) installed
